@@ -7,17 +7,15 @@ Two steps are needed to run simulations.
 
 1. Learn the exceptional subgroups from simulated data
 
-This will generate the data based on several parameters, see ``sd_simuldata.R`` for more info. 
-
-To proceed, type in the R console:
+Type in the R console:
 
 ``source("sd_simuldata.R")``
 
-This will create several files in your computer containing the results (R format).
+This will generate the data based on several parameters, see ``sd_simuldata.R`` for more info. The script creates several files in your computer containing the discovered subgroups (R format).
 
 2. Compute classification measures (AUROC, precision, recall, etc)
 
-The subgroups found will be evaluated now. Type in the console:
+The subgroups found will now be evaluated. Type in the console:
 
 ``source("sd_simul_processresults.R")``
 
