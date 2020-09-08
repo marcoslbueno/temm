@@ -1,5 +1,5 @@
 # temm
-R code for the temporal exceptional model mining paper
+R code for the temporal exceptional model mining paper. For more details, see: https://project.inria.fr/aaltd20/files/2020/08/AALTD_20_paper_Bueno.pdf
 
 Simulated data are provided separately in case you want to use it with other algorithms. For using the TEMM algorithm, no data need to be downloaded as the script will automatically generate the data.
 
