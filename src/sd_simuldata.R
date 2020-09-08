@@ -1,5 +1,5 @@
 
-setwd("~/Google Drive/marcos/phd/papers/ecml2020/github/")
+# setwd("~/Google Drive/marcos/phd/papers/ecml2020/github/")
 
 source("sd_search_functions.R")
 source("sd_randmodels.R")
