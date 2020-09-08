@@ -23,4 +23,8 @@ The subgroups found will be evaluated now. Type in the console:
 
 Note that the parameters you set in the learning phase are required in this script as well.
 
-The final results will be written to disk in two csv files, one for the unitary subgroups and another one for the specialized subgroups.
+The final results will be written to disk in two csv files, one for the unitary subgroups and another one for the specialized subgroups. Examples:
+
+``results-dsimul-unitary-ndynamic17-numseq10.csv``
+
+``results-dsimul-specialized-ndynamic17-numseq10.csv``
